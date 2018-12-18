@@ -7,7 +7,7 @@
 
 int flag = 0;  // To identify if the current loop finished when connecting two parts
 int m = 0;  // Brightness value
-int n = 0;  // Another flag that helps to whether the brightness should be increased or decreased
+int n = 0;  // Another flag that helps to identify whether the brightness should be increased or decreased
 
 void setup() {
 
